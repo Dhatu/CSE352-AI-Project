@@ -14,6 +14,7 @@ Building Classifiers
   each Descriptive Classifier with the resulting Non-Decsriptive Classifier.
 
   Experiments 1- 3
+      
       Experiment 1 : used all records to perform the full classification (learning), i.e. build a classifier for
       all classes C1- C6 simultaneously.
       
