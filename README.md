@@ -2,7 +2,7 @@
 Data preprocessing
 
   1. For the Decision Trees Descriptive Classifier I used 2 methods of data discretization to the Project
-     Data PD creating two data sets: PD1 and PD2. Described which methods you used.
+     Data PD creating two data sets: PD1 and PD2. Described which methods I used.
   2. For the Neural Network Non -descriptive Classifier used the Project DATA - PD and I had a specified tool
      method of normalization.
 
